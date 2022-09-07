@@ -1,0 +1,16 @@
+{
+  "name": "carts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d shop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://soromm.github.io/cart",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
